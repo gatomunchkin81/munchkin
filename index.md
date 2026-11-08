@@ -28,7 +28,7 @@ Su desarrollo moderno, sus líneas genealógicas y los criterios de registro est
 
 Estudiaremos su origen, morfología, variedades, temperamento y reconocimiento, diferenciando los hechos documentados de las interpretaciones y las afirmaciones comerciales.
 
-**Qué es el gato Munchkin y cuáles son sus características** *(contenido en preparación)*
+[Qué es el gato Munchkin y cuáles son sus características]({{ '/munchkin/' | relative_url }})
 
 ## Historia del gato Munchkin
 
@@ -70,7 +70,7 @@ Del mismo modo, la presencia de patas cortas no acredita por sí sola una geneal
 
 Es imprescindible distinguir el fenotipo, el genotipo, la ascendencia y el registro oficial.
 
-**Comprender las diferencias entre Munchkin standard y non-standard** *(contenido en preparación)*
+[Comprender las diferencias entre Munchkin standard y non-standard]({{ '/munchkin/standard-non-standard/' | relative_url }})
 
 ## Minuet, Napoleon y Bambino: razas relacionadas
 
@@ -82,7 +82,7 @@ El **Minuet**, conocido anteriormente como Napoleon, se desarrolló mediante cru
 
 Comparte antecedentes genéticos con el Munchkin, pero posee una historia, una morfología y unos criterios de reconocimiento propios.
 
-**Conocer el gato Minuet y su historia como Napoleon** *(contenido en preparación)*
+El Minuet cuenta con una identidad racial propia, que debe estudiarse atendiendo a sus antecedentes y a la documentación de las organizaciones felinas.
 
 ### Bambino
 
@@ -92,7 +92,7 @@ Su estudio plantea preguntas sobre la herencia de distintos rasgos morfológicos
 
 Su situación registral debe distinguirse del reconocimiento oficial del Munchkin y el Minuet.
 
-**Conocer el gato Bambino y su relación con el Munchkin** *(contenido en preparación)*
+La relación histórica entre estas poblaciones no implica que compartan idénticos criterios de reconocimiento o registro.
 
 ## Estándares oficiales: WCF y TICA
 
@@ -104,7 +104,7 @@ Analizaremos sus disposiciones sobre Munchkin y Minuet, prestando especial atenc
 
 Los estándares describen criterios de raza y registro; no sustituyen la investigación científica sobre genética, salud o bienestar.
 
-**Consultar los estándares oficiales WCF y TICA** *(contenido en preparación)*
+[Consultar el reconocimiento y los estándares oficiales WCF y TICA]({{ '/reconocimiento/' | relative_url }})
 
 ## Salud y bienestar del Munchkin
 
@@ -116,7 +116,7 @@ No es correcto afirmar que todos los Munchkin presentan problemas de salud, ni a
 
 Nuestro objetivo es examinar la evidencia disponible, reconocer sus limitaciones y ofrecer información que ayude a comprender mejor el bienestar de estos gatos.
 
-**Salud del gato Munchkin: evidencia científica y cuestiones abiertas** *(contenido en preparación)*
+[Salud del gato Munchkin: evidencia científica y cuestiones abiertas]({{ '/salud/' | relative_url }})
 
 ## Genética y conocimiento felino
 
@@ -144,7 +144,7 @@ Nuestro compromiso es distinguir los resultados científicos consolidados, las e
 
 Priorizamos las publicaciones originales y la documentación oficial, incorporando referencias que permitan comprobar las afirmaciones relevantes.
 
-**Conocer nuestro proyecto y metodología** *(contenido en preparación)*
+Esta metodología orienta la selección, interpretación y revisión de los contenidos publicados en el sitio.
 
 ## Artículos y guías sobre el Munchkin
 
@@ -154,4 +154,4 @@ Entre los contenidos principales se encuentran la historia de la mutación, la i
 
 También publicamos contenidos complementarios sobre genética y conocimiento felino general.
 
-**Explorar todos los artículos** *(contenido en preparación)*
+[Explorar todos los artículos]({{ '/articulos/' | relative_url }})
