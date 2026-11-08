@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Salud del Munchkin: evidencia y enfermedades
+title: "Salud del Munchkin: evidencia y enfermedades"
 parent: Salud y bienestar
 nav_order: 1
 permalink: /salud/enfermedades/
