@@ -1,0 +1,38 @@
+title: "Gato Munchkin"
+tagline: "Conocimiento sobre el gato Munchkin"
+description: "Información rigurosa sobre el gato Munchkin: historia, genética UGDH, anatomía, salud, bienestar, cría responsable e investigación."
+
+url: "https://gatomunchkin.es"
+baseurl: ""
+permalink: pretty
+
+lang: es-ES
+locale: es_ES
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+color_scheme: light
+search_enabled: false
+
+nav_enabled: true
+nav_sort: case_insensitive
+heading_anchors: true
+
+gh_edit_link: false
+
+back_to_top: true
+back_to_top_text: "Volver arriba"
+
+aux_links_new_tab: false
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .github/
