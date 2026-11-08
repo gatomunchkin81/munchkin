@@ -1,0 +1,74 @@
+{% comment %}
+GATO MUNCHKIN — FOOTER CUSTOM
+Pie de página editorial.
+Compatible con Jekyll y Just the Docs.
+{% endcomment %}
+
+<div class="munchkin-footer">
+
+  <div class="munchkin-footer__identity">
+    <strong>Gato Munchkin</strong>
+    <p>
+      Conocimiento, genética, salud y bienestar
+      del gato Munchkin.
+    </p>
+  </div>
+
+  <nav class="munchkin-footer__nav"
+       aria-label="Enlaces del pie de página">
+
+    <a href="{{ '/' | relative_url }}">
+      Inicio
+    </a>
+
+    <a href="{{ '/genetica/' | relative_url }}">
+      Genética
+    </a>
+
+    <a href="{{ '/salud/' | relative_url }}">
+      Salud
+    </a>
+
+    <a href="{{ '/cria/' | relative_url }}">
+      Cría responsable
+    </a>
+
+    <a href="{{ '/articulos/' | relative_url }}">
+      Investigación
+    </a>
+
+    <a href="{{ '/bibliografia/' | relative_url }}">
+      Bibliografía
+    </a>
+
+  </nav>
+
+  <div class="munchkin-footer__methodology">
+    <p>
+      Proyecto editorial independiente.
+      Información basada en fuentes verificables,
+      revisión crítica de la evidencia y
+      diferenciación entre hechos, observaciones
+      e hipótesis.
+    </p>
+
+    <p>
+      El contenido tiene finalidad informativa
+      y no sustituye la valoración veterinaria
+      individual.
+    </p>
+  </div>
+
+  <div class="munchkin-footer__bottom">
+    <span>
+      &copy; {{ 'now' | date: '%Y' }} Gato Munchkin
+    </span>
+
+    <span>
+      <a href="{{ '/sitemap/' | relative_url }}">
+        Mapa del sitio
+      </a>
+    </span>
+  </div>
+
+</div>
