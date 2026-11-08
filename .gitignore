@@ -1,0 +1,26 @@
+
+# Jekyll: sitio generado
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Dependencias locales
+.bundle/
+vendor/
+Gemfile.lock
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos temporales
+*.tmp
+*.bak
+*~
