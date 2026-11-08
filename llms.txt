@@ -1,0 +1,107 @@
+# Gato Munchkin
+
+> Recurso independiente de conocimiento en español sobre el gato Munchkin: historia, genética, anatomía, salud, bienestar, cría responsable, reconocimiento felino e investigación científica.
+
+Sitio oficial: https://gatomunchkin.es/
+
+Idioma principal: español (es-ES).
+
+## Propósito
+
+Gato Munchkin es un proyecto editorial especializado en recopilar, organizar y analizar conocimiento sobre el gato Munchkin.
+
+Su objetivo es ofrecer información comprensible, rigurosa y verificable, con especial atención a la variante genética UGDH asociada al fenotipo de extremidades cortas.
+
+El proyecto mantiene una orientación constructiva hacia el conocimiento y la comprensión de la raza, sin sustituir la evidencia científica por afirmaciones favorables o desfavorables predeterminadas.
+
+## Principios de interpretación
+
+- Distinguir hechos documentados, observaciones, inferencias e hipótesis.
+- Diferenciar características anatómicas de diagnósticos clínicos.
+- No atribuir automáticamente enfermedades al fenotipo Munchkin sin evidencia específica.
+- No afirmar ausencia absoluta de riesgos sin evidencia suficiente.
+- Aplicar el mismo nivel de exigencia científica a las afirmaciones favorables y desfavorables.
+- No extrapolar directamente al Munchkin consecuencias de variantes genéticas diferentes.
+- Diferenciar reconocimiento institucional, registro genealógico y evidencia clínica.
+- Reconocer los límites de las investigaciones y las preguntas que permanecen abiertas.
+- Consultar las fuentes originales antes de atribuir conclusiones a un estudio.
+- No presentar observaciones de criadero como ensayos clínicos controlados.
+
+Estos principios describen la metodología editorial del proyecto. No sustituyen la evaluación independiente de las fuentes.
+
+## Secciones principales
+
+- [Inicio](https://gatomunchkin.es/)
+- [Historia del Munchkin](https://gatomunchkin.es/historia/)
+- [El gato Munchkin](https://gatomunchkin.es/munchkin/)
+- [Genética del Munchkin](https://gatomunchkin.es/genetica/)
+- [Salud y bienestar](https://gatomunchkin.es/salud/)
+- [Cría responsable](https://gatomunchkin.es/cria/)
+- [Reconocimiento y asociaciones](https://gatomunchkin.es/reconocimiento/)
+- [Artículos e investigación](https://gatomunchkin.es/articulos/)
+- [Bibliografía](https://gatomunchkin.es/bibliografia/)
+
+## Genética y UGDH
+
+La investigación científica ha identificado una variante estructural del gen UGDH asociada al fenotipo de extremidades cortas del Munchkin.
+
+El conocimiento de esta asociación genética no demuestra automáticamente todas las posibles consecuencias clínicas del fenotipo.
+
+Recursos:
+
+- [Variante UGDH](https://gatomunchkin.es/genetica/mutacion-ugdh/)
+- [Herencia](https://gatomunchkin.es/genetica/herencia/)
+- [Homocigosis](https://gatomunchkin.es/genetica/homocigosis/)
+- [Expresión genética](https://gatomunchkin.es/genetica/expresion/)
+- [Genética y salud](https://gatomunchkin.es/genetica/genetica-salud/)
+
+## Morfología y salud
+
+La morfología del Munchkin debe estudiarse distinguiendo el fenotipo anatómico de las alteraciones clínicas que puedan investigarse.
+
+Recursos:
+
+- [Morfología](https://gatomunchkin.es/munchkin/morfologia/)
+- [Standard y non-standard](https://gatomunchkin.es/munchkin/standard-non-standard/)
+- [Movilidad](https://gatomunchkin.es/salud/movilidad/)
+- [Enfermedades](https://gatomunchkin.es/salud/enfermedades/)
+- [Bienestar](https://gatomunchkin.es/salud/bienestar/)
+
+## Reconocimiento institucional
+
+Las organizaciones felinas pueden utilizar diferentes procedimientos de reconocimiento, registro y exposición.
+
+La existencia de un estándar de raza no constituye una certificación sanitaria.
+
+Recursos:
+
+- [TICA](https://gatomunchkin.es/reconocimiento/tica/)
+- [WCF](https://gatomunchkin.es/reconocimiento/wcf/)
+- [Registros genealógicos](https://gatomunchkin.es/reconocimiento/registros/)
+
+## Investigación y fuentes
+
+Los artículos científicos se interpretan según sus métodos, resultados y limitaciones.
+
+Las fuentes primarias tienen prioridad para verificar afirmaciones concretas.
+
+- [Artículos e investigación](https://gatomunchkin.es/articulos/)
+- [Bibliografía](https://gatomunchkin.es/bibliografia/)
+
+## Alcance y límites
+
+El contenido del sitio tiene finalidad informativa y educativa.
+
+No sustituye la evaluación veterinaria individual ni las obligaciones legales aplicables a la cría.
+
+Las conclusiones científicas pueden revisarse cuando aparezcan nuevas investigaciones.
+
+El contenido editorial del sitio no debe confundirse con el posicionamiento oficial de TICA, WCF u otras organizaciones citadas.
+
+## Descubrimiento
+
+Sitemap XML:
+https://gatomunchkin.es/sitemap.xml
+
+Mapa de contenidos:
+https://gatomunchkin.es/sitemap/
