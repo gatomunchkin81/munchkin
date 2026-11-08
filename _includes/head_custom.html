@@ -1,0 +1,62 @@
+{% comment %}
+GATO MUNCHKIN — HEAD CUSTOM
+Datos estructurados Schema.org.
+
+Los metadatos SEO básicos son gestionados por
+jekyll-seo-tag mediante el tema Just the Docs.
+
+Este archivo no duplica title, description,
+canonical ni Open Graph.
+{% endcomment %}
+
+{% assign page_url = page.url | absolute_url %}
+{% assign site_url = '/' | absolute_url %}
+
+{% assign is_article = false %}
+{% if page.url contains '/articulos/' and page.url != '/articulos/' %}
+  {% assign is_article = true %}
+{% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": {{ site_url | append: '#organization' | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "url": {{ site_url | jsonify }},
+      "description": {{ site.description | jsonify }}
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ site_url | append: '#website' | jsonify }},
+      "url": {{ site_url | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "description": {{ site.description | jsonify }},
+      "inLanguage": "es-ES",
+      "publisher": {
+        "@id": {{ site_url | append: '#organization' | jsonify }}
+      }
+    },
+    {
+      "@type": "{% if is_article %}Article{% else %}WebPage{% endif %}",
+      "@id": {{ page_url | append: '#webpage' | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | default: site.title | jsonify }},
+      "description": {{ page.description | default: site.description | jsonify }},
+      "inLanguage": "es-ES",
+      "isPartOf": {
+        "@id": {{ site_url | append: '#website' | jsonify }}
+      },
+      "publisher": {
+        "@id": {{ site_url | append: '#organization' | jsonify }}
+      }{% if is_article %},
+      "headline": {{ page.title | jsonify }},
+      "mainEntityOfPage": {
+        "@id": {{ page_url | append: '#webpage' | jsonify }}
+      }{% endif %}
+    }
+  ]
+}
+</script>
