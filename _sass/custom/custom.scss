@@ -1,0 +1,336 @@
+
+/*
+ * GATO MUNCHKIN — ESTILO EDITORIAL
+ * Jekyll + Just the Docs
+ *
+ * Diseño ligero, accesible y orientado
+ * a documentos extensos y divulgación científica.
+ */
+
+:root {
+  --mk-primary: #365c4b;
+  --mk-primary-dark: #254436;
+  --mk-primary-soft: #edf4ef;
+
+  --mk-text: #27332d;
+  --mk-muted: #65736b;
+  --mk-border: #dce5de;
+  --mk-background: #ffffff;
+}
+
+/* ========================================
+   TIPOGRAFÍA Y LECTURA
+   ======================================== */
+
+body {
+  color: var(--mk-text);
+  background-color: var(--mk-background);
+  -webkit-font-smoothing: antialiased;
+}
+
+.main-content {
+  font-size: 1rem;
+  line-height: 1.8;
+  overflow-wrap: break-word;
+}
+
+.main-content p {
+  margin-bottom: 1.2rem;
+}
+
+.main-content li {
+  line-height: 1.75;
+  margin-bottom: 0.35rem;
+}
+
+.main-content strong {
+  color: var(--mk-primary-dark);
+  font-weight: 650;
+}
+
+/* ========================================
+   TITULARES
+   ======================================== */
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+  color: var(--mk-primary-dark);
+  line-height: 1.3;
+  font-weight: 650;
+}
+
+.main-content h1 {
+  font-size: clamp(1.8rem, 3.2vw, 2.35rem);
+  letter-spacing: -0.025em;
+  margin-bottom: 1.4rem;
+}
+
+.main-content h2 {
+  font-size: clamp(1.4rem, 2.5vw, 1.7rem);
+  margin-top: 2.7rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--mk-border);
+}
+
+.main-content h3 {
+  font-size: 1.2rem;
+  margin-top: 2rem;
+}
+
+/* ========================================
+   ENLACES
+   ======================================== */
+
+.main-content a {
+  color: var(--mk-primary);
+  text-decoration-color: #a2b9aa;
+  text-underline-offset: 3px;
+}
+
+.main-content a:hover {
+  color: var(--mk-primary-dark);
+  text-decoration-color: currentColor;
+}
+
+.main-content a:focus-visible,
+.munchkin-footer a:focus-visible {
+  outline: 2px solid var(--mk-primary);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+/* ========================================
+   CONTENIDO PRINCIPAL
+   ======================================== */
+
+.main-content-wrap {
+  max-width: 1100px;
+}
+
+.main-content {
+  max-width: 850px;
+}
+
+.main-content hr {
+  border: 0;
+  border-top: 1px solid var(--mk-border);
+  margin: 2.5rem 0;
+}
+
+.main-content blockquote {
+  border-left: 3px solid var(--mk-primary);
+  background: var(--mk-primary-soft);
+  padding: 1rem 1.3rem;
+  margin: 1.5rem 0;
+  color: var(--mk-text);
+}
+
+.main-content blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* ========================================
+   TABLAS
+   ======================================== */
+
+.main-content table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.94rem;
+}
+
+.main-content th {
+  background-color: var(--mk-primary-soft);
+  color: var(--mk-primary-dark);
+  font-weight: 650;
+}
+
+.main-content th,
+.main-content td {
+  border-color: var(--mk-border);
+  padding: 0.7rem 0.85rem;
+  vertical-align: top;
+}
+
+.main-content tbody tr:nth-child(even) {
+  background-color: #f8faf8;
+}
+
+/* ========================================
+   CÓDIGO
+   ======================================== */
+
+.main-content code {
+  font-size: 0.9em;
+  overflow-wrap: anywhere;
+}
+
+.main-content pre {
+  border: 1px solid var(--mk-border);
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+/* ========================================
+   NAVEGACIÓN LATERAL
+   ======================================== */
+
+.site-title {
+  color: var(--mk-primary-dark);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+}
+
+.site-nav .nav-list-link {
+  line-height: 1.45;
+}
+
+.site-nav .nav-list-link.active {
+  color: var(--mk-primary-dark);
+  font-weight: 650;
+}
+
+.site-nav .nav-list-link:hover {
+  color: var(--mk-primary);
+}
+
+/* ========================================
+   IMÁGENES
+   ======================================== */
+
+.main-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.main-content figure {
+  margin: 1.8rem 0;
+}
+
+.main-content figcaption {
+  color: var(--mk-muted);
+  font-size: 0.85rem;
+  line-height: 1.5;
+  margin-top: 0.55rem;
+}
+
+/* ========================================
+   PIE DE PÁGINA
+   ======================================== */
+
+.munchkin-footer {
+  margin-top: 3rem;
+  padding: 2rem 0 1rem;
+  border-top: 1px solid var(--mk-border);
+  color: var(--mk-muted);
+  font-size: 0.85rem;
+  line-height: 1.65;
+}
+
+.munchkin-footer__identity strong {
+  display: block;
+  color: var(--mk-primary-dark);
+  font-size: 1.1rem;
+  margin-bottom: 0.35rem;
+}
+
+.munchkin-footer__identity p {
+  margin: 0;
+}
+
+.munchkin-footer__nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem 1.3rem;
+  margin: 1.5rem 0;
+}
+
+.munchkin-footer__nav a,
+.munchkin-footer__bottom a {
+  color: var(--mk-primary);
+  text-decoration: none;
+}
+
+.munchkin-footer__nav a:hover,
+.munchkin-footer__bottom a:hover {
+  text-decoration: underline;
+}
+
+.munchkin-footer__methodology {
+  max-width: 720px;
+}
+
+.munchkin-footer__methodology p {
+  margin-bottom: 0.6rem;
+}
+
+.munchkin-footer__bottom {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  padding-top: 1rem;
+  margin-top: 1.2rem;
+  border-top: 1px solid var(--mk-border);
+  font-size: 0.78rem;
+}
+
+/* ========================================
+   ADAPTACIÓN MÓVIL
+   ======================================== */
+
+@media (max-width: 800px) {
+  .main-content {
+    font-size: 0.98rem;
+    line-height: 1.75;
+  }
+
+  .main-content h1 {
+    font-size: 1.85rem;
+  }
+
+  .main-content h2 {
+    margin-top: 2.2rem;
+  }
+
+  .main-content th,
+  .main-content td {
+    padding: 0.55rem;
+  }
+
+  .munchkin-footer {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .main-content {
+    font-size: 0.96rem;
+  }
+
+  .munchkin-footer__nav {
+    gap: 0.6rem 1rem;
+  }
+
+  .munchkin-footer__bottom {
+    flex-direction: column;
+  }
+}
+
+/* ========================================
+   ACCESIBILIDAD
+   ======================================== */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
