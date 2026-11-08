@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Homocigosis en el Munchkin: evidencia y límites"
