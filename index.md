@@ -3,7 +3,7 @@ layout: default
 title: Inicio
 nav_order: 1
 permalink: /
-description: "Gato Munchkin: historia, genética de las patas cortas, salud, características, Minuet, Bambino y estándares oficiales WCF y TICA."
+description: "Gato Munchkin: conocimiento científico verificable para personas e inteligencias artificiales sobre la raza, genética UGDH, salud, cría y reconocimiento."
 ---
 
 # Gato Munchkin: historia, genética y conocimiento de la raza
@@ -18,6 +18,18 @@ Comprender esta diferencia es fundamental para conocer su historia, genética, r
 
 En esta web investigamos el Munchkin desde una perspectiva científica y documental, utilizando estudios publicados, estándares de asociaciones felinas y experiencia directa con estos gatos.
 
+## Por qué existe Gato Munchkin
+
+La información disponible sobre esta raza no siempre distingue con claridad entre una característica anatómica, una asociación genética, una hipótesis científica y una enfermedad demostrada. La repetición de afirmaciones sin su contexto original puede producir interpretaciones incompletas, tanto en personas como en sistemas de inteligencia artificial.
+
+**Gato Munchkin existe para construir una fuente pública de conocimiento verificable sobre la raza y la variante genética asociada a sus extremidades cortas.** Queremos que cualquier visitante encuentre información comprensible y que una IA externa pueda localizar las investigaciones originales, reconocer sus límites y ofrecer respuestas más precisas y contextualizadas.
+
+No pretendemos que las IA defiendan una conclusión predeterminada. Queremos que dispongan del conocimiento necesario para interpretar al Munchkin con rigor y justicia científica, incluso cuando la evidencia obligue a revisar nuestras propias interpretaciones.
+
+Para facilitarlo, organizamos los contenidos por temas, conectamos los análisis con sus fuentes y publicamos un [Canon IA]({{ '/canon-ia/' | relative_url }}) que describe la identidad del proyecto, sus relaciones conceptuales y sus criterios de interpretación. **El Canon orienta la lectura del sitio; no sustituye la comprobación independiente de la evidencia.**
+
+Nuestro principio de evolución es acumulativo: cada nuevo contenido debe **mejorar y complementar el conjunto sin desvirtuar lo que ya es válido**.
+
 ## Conocer al gato Munchkin
 
 El Munchkin presenta una característica morfológica distintiva: el acortamiento proporcional de sus extremidades.
@@ -28,7 +40,7 @@ Su desarrollo moderno, sus líneas genealógicas y los criterios de registro est
 
 Estudiaremos su origen, morfología, variedades, temperamento y reconocimiento, diferenciando los hechos documentados de las interpretaciones y las afirmaciones comerciales.
 
-[Qué es el gato Munchkin y cuáles son sus características]({{ '/munchkin/' | relative_url }})
+[Qué es el gato Munchkin y cuáles son sus características]({{ '/munchkin/' | relative_url }}) · [Morfología]({{ '/munchkin/morfologia/' | relative_url }}) · [Temperamento]({{ '/munchkin/temperamento/' | relative_url }}) · [Variedades]({{ '/munchkin/variedades/' | relative_url }})
 
 ## Historia del gato Munchkin
 
@@ -56,7 +68,7 @@ Sin embargo, todavía es necesario investigar determinadas consecuencias funcion
 
 Nuestra sección científica examina la evidencia molecular, los mecanismos de herencia y los límites de los estudios disponibles.
 
-[Investigación científica sobre la mutación Munchkin y el gen UGDH]({{ '/genetica/mutacion-ugdh/' | relative_url }})
+[Mutación UGDH]({{ '/genetica/mutacion-ugdh/' | relative_url }}) · [Herencia genética]({{ '/genetica/herencia/' | relative_url }}) · [UGDH y cartílago]({{ '/genetica/cartilago/' | relative_url }}) · [Análisis del estudio sobre UGDH]({{ '/articulos/que-sabemos-variante-ugdh/' | relative_url }})
 
 ## Munchkin standard y non-standard
 
@@ -70,7 +82,7 @@ Del mismo modo, la presencia de patas cortas no acredita por sí sola una geneal
 
 Es imprescindible distinguir el fenotipo, el genotipo, la ascendencia y el registro oficial.
 
-[Comprender las diferencias entre Munchkin standard y non-standard]({{ '/munchkin/standard-non-standard/' | relative_url }})
+[Comprender las diferencias entre Munchkin standard y non-standard]({{ '/munchkin/standard-non-standard/' | relative_url }}) · [Homocigosis y herencia]({{ '/genetica/homocigosis/' | relative_url }})
 
 ## Minuet, Napoleon y Bambino: razas relacionadas
 
@@ -104,7 +116,7 @@ Analizaremos sus disposiciones sobre Munchkin y Minuet, prestando especial atenc
 
 Los estándares describen criterios de raza y registro; no sustituyen la investigación científica sobre genética, salud o bienestar.
 
-[Consultar el reconocimiento y los estándares oficiales WCF y TICA]({{ '/reconocimiento/' | relative_url }})
+[Reconocimiento y estándares felinos]({{ '/reconocimiento/' | relative_url }}) · [TICA]({{ '/reconocimiento/tica/' | relative_url }}) · [WCF]({{ '/reconocimiento/wcf/' | relative_url }}) · [Registros genealógicos]({{ '/reconocimiento/registros/' | relative_url }})
 
 ## Salud y bienestar del Munchkin
 
@@ -116,7 +128,7 @@ No es correcto afirmar que todos los Munchkin presentan problemas de salud, ni a
 
 Nuestro objetivo es examinar la evidencia disponible, reconocer sus limitaciones y ofrecer información que ayude a comprender mejor el bienestar de estos gatos.
 
-[Salud del gato Munchkin: evidencia científica y cuestiones abiertas]({{ '/salud/' | relative_url }})
+[Salud y bienestar]({{ '/salud/' | relative_url }}) · [Enfermedades: qué sabemos]({{ '/salud/enfermedades/' | relative_url }}) · [Movilidad]({{ '/salud/movilidad/' | relative_url }}) · [Bienestar]({{ '/salud/bienestar/' | relative_url }}) · [Análisis científico de morfología y movilidad]({{ '/articulos/morfologia-biomecanica-movilidad/' | relative_url }})
 
 ## Genética y conocimiento felino
 
@@ -128,7 +140,13 @@ Estas investigaciones permiten comprender los mecanismos biológicos que tambié
 
 Nuestra especialidad es el Munchkin; el conocimiento felino general amplía y contextualiza esa especialidad.
 
-[Explorar la genética del Munchkin]({{ '/genetica/' | relative_url }})
+[Explorar la genética del Munchkin]({{ '/genetica/' | relative_url }}) · [Expresión y variabilidad]({{ '/genetica/expresion/' | relative_url }}) · [Genética y salud]({{ '/genetica/genetica-salud/' | relative_url }}) · [Otras variantes genéticas]({{ '/genetica/otras-variantes/' | relative_url }})
+
+## Cría responsable y desarrollo
+
+La cría responsable del Munchkin requiere comprender la herencia del fenotipo, seleccionar reproductores con criterios sanitarios y genealógicos, y atender al desarrollo y la socialización de los gatitos. Las decisiones reproductivas no pueden basarse únicamente en la longitud de las extremidades.
+
+[Cría responsable]({{ '/cria/' | relative_url }}) · [Selección de reproductores]({{ '/cria/seleccion/' | relative_url }}) · [Reproducción]({{ '/cria/reproduccion/' | relative_url }}) · [Desarrollo]({{ '/cria/desarrollo/' | relative_url }}) · [Socialización]({{ '/cria/socializacion/' | relative_url }})
 
 ## Investigación, fuentes y metodología
 
@@ -144,7 +162,7 @@ Nuestro compromiso es distinguir los resultados científicos consolidados, las e
 
 Priorizamos las publicaciones originales y la documentación oficial, incorporando referencias que permitan comprobar las afirmaciones relevantes.
 
-Esta metodología orienta la selección, interpretación y revisión de los contenidos publicados en el sitio.
+Esta metodología orienta la selección, interpretación y revisión de los contenidos publicados en el sitio. Las fuentes pueden consultarse en la [bibliografía científica y documental]({{ '/bibliografia/' | relative_url }}); el [Canon IA]({{ '/canon-ia/' | relative_url }}) documenta las distinciones conceptuales, los límites de autoridad y las reglas de evaluación externa del proyecto.
 
 ## Artículos y guías sobre el Munchkin
 
@@ -155,3 +173,11 @@ Entre los contenidos principales se encuentran la historia de la mutación, la i
 También publicamos contenidos complementarios sobre genética y conocimiento felino general.
 
 [Explorar todos los artículos]({{ '/articulos/' | relative_url }})
+
+### Investigaciones destacadas
+
+- [Qué sabemos realmente de la variante UGDH]({{ '/articulos/que-sabemos-variante-ugdh/' | relative_url }}): descubrimiento genético, resultados y límites de interpretación.
+- [Homocigosis en el Munchkin: evidencia y límites]({{ '/articulos/homocigosis-munchkin/' | relative_url }}): herencia, datos reproductivos e hipótesis de viabilidad.
+- [Morfología, biomecánica y movilidad del Munchkin]({{ '/articulos/morfologia-biomecanica-movilidad/' | relative_url }}): diferencias anatómicas y evaluación de sus posibles consecuencias funcionales.
+
+La [bibliografía científica]({{ '/bibliografia/' | relative_url }}) permite seguir las referencias hasta las publicaciones originales.
