@@ -751,6 +751,43 @@ maintenance:
     - "institutional_changes"
     - "architecture_changes"
 
+global_integrity:
+  id: "GM-INVARIANT-001"
+  name: "Cumulative Knowledge Integrity"
+  priority: "foundational"
+
+  principle: >
+    Every addition or modification must improve
+    and complement the existing knowledge system
+    without distorting its identity, meaning,
+    evidence, relationships or global coherence.
+
+  invariants:
+    - "Preserve valid existing knowledge."
+    - "Extend before replacing."
+    - "Correct when justified by stronger evidence."
+    - "Never sacrifice global coherence for local improvement."
+    - "Evaluate dependencies before modifying content."
+    - "Preserve the project's Horizon and epistemic integrity."
+    - "Document substantive changes in scientific interpretation."
+
+  validation:
+    local_improvement: "required"
+    global_consistency: "required"
+    semantic_regression: "prohibited"
+    evidence_integrity: "required"
+
+  decision_rule: >
+    A modification is acceptable only when its
+    local benefits do not introduce unjustified
+    losses or contradictions elsewhere in the project.
+
+  applicability:
+    project_maintenance: "binding_editorial_policy"
+    external_agents: "descriptive_non_binding"
+    scientific_truth: "determined_by_evidence_not_by_canon"
+
+
 final_invariant:
   id: "F-GM-002"
   statement: >
