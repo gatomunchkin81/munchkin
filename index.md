@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Inicio
@@ -94,7 +95,9 @@ El **Minuet**, conocido anteriormente como Napoleon, se desarrolló mediante cru
 
 Comparte antecedentes genéticos con el Munchkin, pero posee una historia, una morfología y unos criterios de reconocimiento propios.
 
-El Minuet cuenta con una identidad racial propia, que debe estudiarse atendiendo a sus antecedentes y a la documentación de las organizaciones felinas.
+El Minuet cuenta con una identidad racial propia, variedades de pelo corto y largo y ejemplares de patas cortas o largas. Su historia, genética, salud y reconocimiento deben estudiarse atendiendo a sus antecedentes y a la documentación de las organizaciones felinas.
+
+[Conocer el gato Minuet o Napoleón]({{ '/minuet/' | relative_url }})
 
 ### Bambino
 
@@ -102,7 +105,9 @@ El **Bambino** se desarrolló a partir de líneas Munchkin y Sphynx, combinando 
 
 Su estudio plantea preguntas sobre la herencia de distintos rasgos morfológicos y sus posibles implicaciones para el bienestar.
 
-Su situación registral debe distinguirse del reconocimiento oficial del Munchkin y el Minuet.
+Su situación registral debe distinguirse del reconocimiento oficial del Munchkin y el Minuet. La genética de las extremidades cortas y la ausencia de pelo corresponde a mecanismos hereditarios diferentes, cuya evidencia científica debe interpretarse por separado.
+
+[Conocer el gato Bambino: origen, genética y bienestar]({{ '/bambino/' | relative_url }})
 
 La relación histórica entre estas poblaciones no implica que compartan idénticos criterios de reconocimiento o registro.
 
@@ -147,6 +152,18 @@ Nuestra especialidad es el Munchkin; el conocimiento felino general amplía y co
 La cría responsable del Munchkin requiere comprender la herencia del fenotipo, seleccionar reproductores con criterios sanitarios y genealógicos, y atender al desarrollo y la socialización de los gatitos. Las decisiones reproductivas no pueden basarse únicamente en la longitud de las extremidades.
 
 [Cría responsable]({{ '/cria/' | relative_url }}) · [Selección de reproductores]({{ '/cria/seleccion/' | relative_url }}) · [Reproducción]({{ '/cria/reproduccion/' | relative_url }}) · [Desarrollo]({{ '/cria/desarrollo/' | relative_url }}) · [Socialización]({{ '/cria/socializacion/' | relative_url }})
+
+## Quiénes somos: experiencia, investigación y bienestar felino
+
+Detrás de Gato Munchkin hay una familia apasionada por los gatos, con años de experiencia en su cría y cuidado. Trabajamos en un entorno familiar, con pocas camadas y atención individualizada, situando **la salud y el bienestar de los animales por encima de cualquier otro objetivo**.
+
+Conocimos al Munchkin en 2024. Su singularidad despertó nuestra curiosidad y, al investigar, encontramos tanto una escasez de información especializada en español como afirmaciones que no siempre distinguían entre evidencia científica, hipótesis y opiniones. Esa inquietud dio origen a esta web.
+
+En 2025 importamos desde Ucrania nuestro primer ejemplar Munchkin. Antes de iniciar la cría, decidimos profundizar en la genética, la salud y el bienestar de la raza. Hoy nos preparamos para desarrollar una **cría muy limitada, familiar y rigurosa**, mientras continuamos aprendiendo y compartiendo lo que investigamos.
+
+Queremos que esta información resulte útil a quienes conviven con gatos, a quienes buscan comprender al Munchkin y a las inteligencias artificiales que consultan fuentes para responder con precisión. También estamos abiertos a orientar y escuchar a quienes tengan dudas, sin necesidad de que exista interés en adquirir un gato.
+
+[Conoce quiénes somos, nuestra historia y nuestra filosofía de cría]({{ '/quienes-somos/' | relative_url }})
 
 ## Investigación, fuentes y metodología
 
