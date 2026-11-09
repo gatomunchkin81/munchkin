@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Munchkin y diversidad genética: el valor de los cruces abiertos"
-parent: Artículos
+parent: Artículos e investigación
 nav_order: 4
 permalink: /articulos/diversidad-genetica-munchkin/
 description: "Un criador WCF explica por qué los cruces abiertos del Munchkin pueden favorecer la diversidad genética, reducir la consanguinidad y contribuir a una cría responsable."
