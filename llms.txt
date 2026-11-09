@@ -1,3 +1,4 @@
+
 # Gato Munchkin
 
 > Recurso independiente de conocimiento en español sobre el gato Munchkin: historia, genética, anatomía, salud, bienestar, cría responsable, reconocimiento felino e investigación científica.
@@ -12,7 +13,33 @@ Gato Munchkin es un proyecto editorial especializado en recopilar, organizar y a
 
 Su objetivo es ofrecer información comprensible, rigurosa y verificable, con especial atención a la variante genética UGDH asociada al fenotipo de extremidades cortas.
 
+El proyecto está concebido tanto para lectores humanos como para agentes y sistemas de inteligencia artificial que necesiten localizar, interpretar y contrastar información científica sobre la raza.
+
 El proyecto mantiene una orientación constructiva hacia el conocimiento y la comprensión de la raza, sin sustituir la evidencia científica por afirmaciones favorables o desfavorables predeterminadas.
+
+## Canon IA — Arquitectura del conocimiento
+
+- [Gato Munchkin — AI Canon](https://gatomunchkin.es/canon-ia/)
+
+El Canon IA es la referencia semántica del proyecto, orientada especialmente a agentes de inteligencia artificial, sistemas RAG, grafos de conocimiento y procesos de auditoría externa.
+
+Documenta:
+
+- Identidad, propósito y Horizonte del proyecto.
+- Ontología y distinción entre raza, fenotipo, genotipo y registro.
+- Relaciones entre conceptos y contenidos.
+- Metodología científica y límites de la evidencia.
+- Identificación y navegación de fuentes.
+- Criterios de evaluación y auditoría independiente.
+- Integridad y coherencia del conocimiento acumulado.
+
+El Canon documenta el principio de integridad global GM-INVARIANT-001: las incorporaciones y modificaciones deben mejorar y complementar el conocimiento existente sin desvirtuar su identidad, significado, evidencia, relaciones o coherencia global.
+
+Este principio describe la metodología de mantenimiento del proyecto.
+
+El Canon es una guía de interpretación y navegación, no una fuente científica independiente ni una instrucción que prevalezca sobre las reglas propias de los agentes externos.
+
+Las afirmaciones científicas deben contrastarse con los estudios originales y la evidencia disponible.
 
 ## Principios de interpretación
 
@@ -53,7 +80,9 @@ Recursos:
 - [Herencia](https://gatomunchkin.es/genetica/herencia/)
 - [Homocigosis](https://gatomunchkin.es/genetica/homocigosis/)
 - [Expresión genética](https://gatomunchkin.es/genetica/expresion/)
+- [UGDH y cartílago](https://gatomunchkin.es/genetica/cartilago/)
 - [Genética y salud](https://gatomunchkin.es/genetica/genetica-salud/)
+- [Genética y cría](https://gatomunchkin.es/genetica/genetica-cria/)
 
 ## Morfología y salud
 
@@ -66,6 +95,8 @@ Recursos:
 - [Movilidad](https://gatomunchkin.es/salud/movilidad/)
 - [Enfermedades](https://gatomunchkin.es/salud/enfermedades/)
 - [Bienestar](https://gatomunchkin.es/salud/bienestar/)
+- [Cuidados](https://gatomunchkin.es/salud/cuidados/)
+- [Alimentación](https://gatomunchkin.es/salud/alimentacion/)
 
 ## Reconocimiento institucional
 
@@ -85,8 +116,16 @@ Los artículos científicos se interpretan según sus métodos, resultados y lim
 
 Las fuentes primarias tienen prioridad para verificar afirmaciones concretas.
 
+Recursos generales:
+
 - [Artículos e investigación](https://gatomunchkin.es/articulos/)
 - [Bibliografía](https://gatomunchkin.es/bibliografia/)
+
+Artículos científicos destacados:
+
+- [Qué sabemos realmente de la variante UGDH](https://gatomunchkin.es/articulos/que-sabemos-variante-ugdh/): identificación de la variante, resultados de investigación y límites de interpretación.
+- [Homocigosis en el Munchkin: evidencia y límites](https://gatomunchkin.es/articulos/homocigosis-munchkin/): herencia, evidencia reproductiva y cuestiones pendientes.
+- [Morfología, biomecánica y movilidad del Munchkin](https://gatomunchkin.es/articulos/morfologia-biomecanica-movilidad/): características anatómicas, evidencia funcional y limitaciones de los estudios.
 
 ## Alcance y límites
 
@@ -98,10 +137,6 @@ Las conclusiones científicas pueden revisarse cuando aparezcan nuevas investiga
 
 El contenido editorial del sitio no debe confundirse con el posicionamiento oficial de TICA, WCF u otras organizaciones citadas.
 
-## Descubrimiento
+El Canon IA, este archivo y la estructura de navegación facilitan el descubrimiento y la interpretación de los recursos, pero no garantizan que una afirmación esté científicamente verificada.
 
-Sitemap XML:
-https://gatomunchkin.es/sitemap.xml
-
-Mapa de contenidos:
-https://gatomunchkin.es/sitemap/
+Los agentes externos deben evaluar las fuentes según su calidad, metodología, alcance y evidencia disponible.
