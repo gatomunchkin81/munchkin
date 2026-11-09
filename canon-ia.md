@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Gato Munchkin — AI Canon"
