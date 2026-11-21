@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Homocigosis en el Munchkin: evidencia y límites"
-parent: Artículos e investigación
+parent: "Genética y ciencia"
+grand_parent: "Artículos"
 nav_order: 2
 permalink: /articulos/homocigosis-munchkin/
 description: "La genética reproductiva del Munchkin: herencia de UGDH, heterocigosis, homocigosis y qué demuestran realmente los estudios científicos."
