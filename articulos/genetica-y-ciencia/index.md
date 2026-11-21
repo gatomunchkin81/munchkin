@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Genética y ciencia"
-parent: "Artículos e investigación"
+parent: "Artículos"
 nav_order: 1
 has_children: true
 permalink: /articulos/genetica-y-ciencia/
