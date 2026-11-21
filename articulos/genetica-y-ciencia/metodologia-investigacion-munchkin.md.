@@ -1,11 +1,14 @@
 ---
 layout: default
-title: Artículos e investigación
-nav_order: 8
-has_children: true
-permalink: /articulos/
-description: "Investigación y análisis científico del gato Munchkin: genética UGDH, salud, movilidad, reproducción, bienestar y revisión crítica de la evidencia disponible."
+title: "Metodología científica y evaluación de evidencias sobre el Munchkin"
+parent: "Genética y ciencia"
+grand_parent: "Artículos e investigación"
+nav_order: 5
+permalink: /articulos/metodologia-investigacion-munchkin/
+description: "Metodología científica para evaluar investigaciones sobre genética UGDH, homocigosis, salud, movilidad y bienestar del gato Munchkin."
+last_modified_at: 2026-11-21
 ---
+
 
 # Artículos e investigación sobre el gato Munchkin
 
