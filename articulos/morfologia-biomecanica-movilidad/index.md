@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Morfología, biomecánica y movilidad del Munchkin"
-parent: Artículos e investigación
+parent: "Genética y ciencia"
+grand_parent: "Artículos"
 nav_order: 3
 permalink: /articulos/morfologia-biomecanica-movilidad/
 description: "Análisis científico de la conformación esquelética y la movilidad del gato Munchkin: qué muestran los estudios, qué significa una diferencia anatómica y cómo evaluar sus posibles consecuencias funcionales."
