@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Qué sabemos realmente de la variante UGDH
-parent: Artículos e investigación
+parent: "Genética y ciencia"
+grand_parent: "Artículos"
 nav_order: 1
 permalink: /articulos/que-sabemos-variante-ugdh/
 description: "Qué ha descubierto la ciencia sobre la variante UGDH del gato Munchkin: genética, herencia, desarrollo esquelético y significado de los estudios publicados."
